@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TeacherPool>
+	<Teacher>
+		<Name>Anitha Kalibhat</Name>
+		<Class>1</Class>
+		<Class>2</Class>
+		<Subject>Physics</Subject>
+	</Teacher>
+</TeacherPool>
